@@ -1,0 +1,50 @@
+{"id": "q001", "question": "What is Reinforcement Learning?"}
+{"id": "q002", "question": "Explain the exploration-exploitation trade-off."}
+{"id": "q003", "question": "What is a Markov Decision Process?"}
+{"id": "q004", "question": "How does Q-learning work?"}
+{"id": "q005", "question": "What is an epsilon-greedy algorithm?"}
+{"id": "q006", "question": "What does RAG stand for?"}
+{"id": "q007", "question": "How does RAG reduce hallucinations?"}
+{"id": "q008", "question": "What is the role of an LLM in RAG?"}
+{"id": "q009", "question": "What are embeddings?"}
+{"id": "q010", "question": "What is FAISS used for?"}
+{"id": "q011", "question": "Does FAISS support GPU search?"}
+{"id": "q012", "question": "What is IndexFlatIP?"}
+{"id": "q013", "question": "What is cosine similarity?"}
+{"id": "q014", "question": "What are the three machine learning paradigms?"}
+{"id": "q015", "question": "Who created FAISS?"}
+{"id": "q016", "question": "What is the capital of France?"}
+{"id": "q017", "question": "Who won the World Cup in 2022?"}
+{"id": "q018", "question": "How do you make a cake?"}
+{"id": "q019", "question": "What is the speed of light?"}
+{"id": "q020", "question": "Who wrote Harry Potter?"}
+{"id": "q021", "question": "Is Reinforcement Learning supervised or unsupervised?"}
+{"id": "q022", "question": "What is the goal of an agent in MDP?"}
+{"id": "q023", "question": "What is a policy in RL?"}
+{"id": "q024", "question": "Describe the transition function in MDP."}
+{"id": "q025", "question": "What is a multi-armed bandit?"}
+{"id": "q026", "question": "How are vector databases used in RAG?"}
+{"id": "q027", "question": "What is the difference between inner product and cosine similarity?"}
+{"id": "q028", "question": "Can FAISS do approximate search?"}
+{"id": "q029", "question": "What is a chunk in RAG?"}
+{"id": "q030", "question": "What language is FAISS written in?"}
+{"id": "q031", "question": "Tell me a joke about RL."}
+{"id": "q032", "question": "What is the weather today?"}
+{"id": "q033", "question": "Who is the president of the US?"}
+{"id": "q034", "question": "What is the population of Mars?"}
+{"id": "q035", "question": "How do I install python?"}
+{"id": "q036", "question": "What is the best movie of all time?"}
+{"id": "q037", "question": "Can you summarize the documents?"}
+{"id": "q038", "question": "What is the meaning of life?"}
+{"id": "q039", "question": "What lies beyond the observable universe?"}
+{"id": "q040", "question": "Do aliens exist?"}
+{"id": "q041", "question": "What is model-free RL?"}
+{"id": "q042", "question": "How does epsilon affect exploration?"}
+{"id": "q043", "question": "What is a value function?"}
+{"id": "q044", "question": "What is a dense vector?"}
+{"id": "q045", "question": "What is the dimensionality of embeddings?"}
+{"id": "q046", "question": "Is RAG better than fine-tuning?"}
+{"id": "q047", "question": "What is a knowledge base?"}
+{"id": "q048", "question": "What is retrieval latency?"}
+{"id": "q049", "question": "How do I optimize FAISS?"}
+{"id": "q050", "question": "What is the difference between RAG and RL?"}

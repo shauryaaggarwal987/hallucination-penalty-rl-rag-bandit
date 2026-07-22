@@ -1,0 +1,2 @@
+analysis,n_seeds,mean_of_seed_means,sd,median,min,max
+"post-hoc fixed-trajectory rescore, not corrected online runs",5,0.5250330022918259,0.013988693488264937,0.52,0.5102407690348867,0.5466666666666666

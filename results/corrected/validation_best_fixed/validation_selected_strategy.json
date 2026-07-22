@@ -1,0 +1,7 @@
+{
+  "selected_action": "A2",
+  "selection_metric": "mean clean-v2 semantic reward",
+  "validation_mean_reward": 0.42857142857142855,
+  "tie_break_rule": "higher mean, then lower temperature, then A0-A4 order",
+  "validation_repeats": 3
+}

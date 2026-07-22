@@ -1,0 +1,21 @@
+{
+  "generated_at_utc": "2026-07-22T19:46:15.524613+00:00",
+  "generated_after_notebook_synchronization": true,
+  "verified_hashes": {
+    "/workspace/scratch/e479504e8631/project/data/questions.jsonl": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99",
+    "/workspace/scratch/e479504e8631/project/outputs/chunks.jsonl": "01cbbf11efc906d7ccc5b06a96f8041a7e7c148a130ebe39087a93edfe636564",
+    "/workspace/scratch/e479504e8631/project/outputs/faiss.index": "0b1aabe27f683036443ac9f130f6ac79f6c61a57bd4ce099eeb1c4523d58c971"
+  },
+  "source_notebook_sha256": "64441031244620f1c499aed7a9a84cf422606537e71e5e14064cd4ed1f020e91",
+  "split_counts": {
+    "train": 34,
+    "validation": 7,
+    "test": 9
+  },
+  "split_integrity": true,
+  "corpus_stats": {
+    "document_count": 98,
+    "chunk_count": 1245,
+    "overlap_inclusive_chunk_word_count": 250935
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "interpretation": "post-hoc reward rescore of fixed historical trajectory; not corrected online bandit training",
+  "primary": {
+    "rows": 200,
+    "legacy_matches_stored": 200,
+    "answers_changed_reward": 2,
+    "mean_legacy": 0.5485714285714286,
+    "mean_v2": 0.5483333333333333,
+    "formatting_units_removed": 3
+  },
+  "baseline": {
+    "rows": 54,
+    "legacy_matches_stored": 54,
+    "answers_changed_reward": 4,
+    "formatting_units_removed": 6,
+    "policy_means": [
+      {
+        "policy": "Citation-Enforced-RAG",
+        "legacy_mean": 0.5555555555555556,
+        "corrected_mean": 0.5555555555555556,
+        "mean_delta": 0.0,
+        "answers_changed": 0,
+        "formatting_units_removed": 0
+      },
+      {
+        "policy": "Fixed-A0",
+        "legacy_mean": 0.4444444444444444,
+        "corrected_mean": 0.4444444444444444,
+        "mean_delta": 0.0,
+        "answers_changed": 0,
+        "formatting_units_removed": 0
+      },
+      {
+        "policy": "Fixed-A1",
+        "legacy_mean": 0.4444444444444444,
+        "corrected_mean": 0.4444444444444444,
+        "mean_delta": 0.0,
+        "answers_changed": 0,
+        "formatting_units_removed": 0
+      },
+      {
+        "policy": "Fixed-A2",
+        "legacy_mean": 0.5555555555555556,
+        "corrected_mean": 0.5555555555555556,
+        "mean_delta": 0.0,
+        "answers_changed": 0,
+        "formatting_units_removed": 0
+      },
+      {
+        "policy": "Fixed-A3",
+        "legacy_mean": 0.2777777777777778,
+        "corrected_mean": 0.5555555555555556,
+        "mean_delta": 0.2777777777777778,
+        "answers_changed": 3,
+        "formatting_units_removed": 4
+      },
+      {
+        "policy": "Fixed-A4",
+        "legacy_mean": 0.20555555555555557,
+        "corrected_mean": 0.2518518518518518,
+        "mean_delta": 0.0462962962962963,
+        "answers_changed": 1,
+        "formatting_units_removed": 2
+      }
+    ]
+  },
+  "ranking_legacy": [
+    "Citation-Enforced-RAG",
+    "Fixed-A2",
+    "Fixed-A0",
+    "Fixed-A1",
+    "Fixed-A3",
+    "Fixed-A4"
+  ],
+  "ranking_v2": [
+    "Citation-Enforced-RAG",
+    "Fixed-A2",
+    "Fixed-A3",
+    "Fixed-A0",
+    "Fixed-A1",
+    "Fixed-A4"
+  ]
+}

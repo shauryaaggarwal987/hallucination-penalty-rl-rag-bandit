@@ -1,0 +1,23 @@
+{
+  "scope": "deterministic preprocessing diagnostic only; not a semantic_proxy_clean_v2 embedding rescore",
+  "rows": 254,
+  "rows_with_numbered_list_markers": 4,
+  "numbered_list_markers_detected": 10,
+  "citation_tags_to_strip_before_embedding": 228,
+  "by_dataset": [
+    {
+      "dataset": "baseline",
+      "rows": 54,
+      "rows_with_numbered_lists": 4,
+      "numbering_markers": 10,
+      "citation_tags": 46
+    },
+    {
+      "dataset": "primary",
+      "rows": 200,
+      "rows_with_numbered_lists": 0,
+      "numbering_markers": 0,
+      "citation_tags": 182
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the associated paper."
+title: "Reward-Driven Hallucination Control in Retrieval-Augmented Generation via Bandit Learning"
+type: software
+authors:
+  - family-names: Aggarwal
+    given-names: Shaurya
+  - family-names: Lohar
+    given-names: Ishani
+  - family-names: Kumar
+    given-names: Gireesh
+  - family-names: Sharma
+    given-names: Richa
+year: 2026
+

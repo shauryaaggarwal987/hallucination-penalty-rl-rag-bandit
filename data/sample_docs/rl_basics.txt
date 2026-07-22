@@ -1,0 +1,8 @@
+Reinforcement Learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. 
+Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning. 
+The standard model for RL is the Markov Decision Process (MDP).
+An MDP consists of a set of states, a set of actions, a transition function, and a reward function.
+The goal of the agent is to learn a policy, which is a mapping from states to probabilities of selecting each possible action.
+Q-learning is a model-free reinforcement learning algorithm to learn the value of an action in a particular state.
+The epsilon-greedy algorithm is a simple method to balance exploration and exploitation by choosing a random action with probability epsilon and the best known action otherwise.
+Multi-armed bandits are a simpler form of RL directly modeling the exploration-exploitation trade-off without state transitions.

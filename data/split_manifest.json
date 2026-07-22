@@ -1,0 +1,352 @@
+[
+  {
+    "split": "train",
+    "question_id": "q042",
+    "question": "How does epsilon affect exploration?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q047",
+    "question": "What is a knowledge base?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q048",
+    "question": "What is retrieval latency?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q016",
+    "question": "What is the capital of France?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q010",
+    "question": "What is FAISS used for?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q017",
+    "question": "Who won the World Cup in 2022?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q025",
+    "question": "What is a multi-armed bandit?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q035",
+    "question": "How do I install python?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q032",
+    "question": "What is the weather today?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q001",
+    "question": "What is Reinforcement Learning?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q045",
+    "question": "What is the dimensionality of embeddings?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q028",
+    "question": "Can FAISS do approximate search?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q034",
+    "question": "What is the population of Mars?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q006",
+    "question": "What does RAG stand for?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q030",
+    "question": "What language is FAISS written in?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q012",
+    "question": "What is IndexFlatIP?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q037",
+    "question": "Can you summarize the documents?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q002",
+    "question": "Explain the exploration-exploitation trade-off.",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q022",
+    "question": "What is the goal of an agent in MDP?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q003",
+    "question": "What is a Markov Decision Process?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q044",
+    "question": "What is a dense vector?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q036",
+    "question": "What is the best movie of all time?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q024",
+    "question": "Describe the transition function in MDP.",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q041",
+    "question": "What is model-free RL?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q011",
+    "question": "Does FAISS support GPU search?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q023",
+    "question": "What is a policy in RL?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q019",
+    "question": "What is the speed of light?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q050",
+    "question": "What is the difference between RAG and RL?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q021",
+    "question": "Is Reinforcement Learning supervised or unsupervised?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q008",
+    "question": "What is the role of an LLM in RAG?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q043",
+    "question": "What is a value function?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q015",
+    "question": "Who created FAISS?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q029",
+    "question": "What is a chunk in RAG?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "train",
+    "question_id": "q039",
+    "question": "What lies beyond the observable universe?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "validation",
+    "question_id": "q007",
+    "question": "How does RAG reduce hallucinations?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "validation",
+    "question_id": "q018",
+    "question": "How do you make a cake?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "validation",
+    "question_id": "q026",
+    "question": "How are vector databases used in RAG?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "validation",
+    "question_id": "q013",
+    "question": "What is cosine similarity?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "validation",
+    "question_id": "q038",
+    "question": "What is the meaning of life?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "validation",
+    "question_id": "q046",
+    "question": "Is RAG better than fine-tuning?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "validation",
+    "question_id": "q027",
+    "question": "What is the difference between inner product and cosine similarity?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q014",
+    "question": "What are the three machine learning paradigms?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q040",
+    "question": "Do aliens exist?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q049",
+    "question": "How do I optimize FAISS?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q004",
+    "question": "How does Q-learning work?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q009",
+    "question": "What are embeddings?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q005",
+    "question": "What is an epsilon-greedy algorithm?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q033",
+    "question": "Who is the president of the US?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q020",
+    "question": "Who wrote Harry Potter?",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  },
+  {
+    "split": "test",
+    "question_id": "q031",
+    "question": "Tell me a joke about RL.",
+    "master_seed": 42,
+    "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99"
+  }
+]

@@ -1,0 +1,10 @@
+policy_a,policy_b,paired_n,mean_difference,ci_low,ci_high
+Primary-Bandit-Greedy,Citation-Enforced-RAG,9,0.2222222222222222,0.0,0.6666666666666666
+Primary-Bandit-Greedy,Fixed-A0,9,0.3333333333333333,0.0,0.6666666666666666
+Primary-Bandit-Greedy,Fixed-A1,9,0.1111111111111111,0.0,0.3333333333333333
+Primary-Bandit-Greedy,Fixed-A2,9,0.0,0.0,0.0
+Primary-Bandit-Greedy,Fixed-A3,9,0.1111111111111111,0.0,0.3333333333333333
+Primary-Bandit-Greedy,Fixed-A4,9,0.3129222629222629,0.048276353276353205,0.53015873015873
+Primary-Bandit-Greedy,Generate-All-Score-Max,9,-0.05982905982905984,-0.17948717948717952,0.0
+Primary-Bandit-Greedy,Uniform-Random-Expected,9,0.1736955636955637,0.04791208791208794,0.32513624338624325
+Primary-Bandit-Greedy,Validation-Selected-Best-Fixed,9,0.0,0.0,0.0

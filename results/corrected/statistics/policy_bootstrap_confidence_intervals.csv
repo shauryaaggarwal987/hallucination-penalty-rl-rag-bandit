@@ -1,0 +1,11 @@
+policy,n_questions,mean_reward,ci_low,ci_high,method
+Citation-Enforced-RAG,9,0.4444444444444444,0.0,0.8888888888888888,"question-level bootstrap, 5000 resamples, seed 42"
+Fixed-A0,9,0.3333333333333333,0.1111111111111111,0.6666666666666666,"question-level bootstrap, 5000 resamples, seed 42"
+Fixed-A1,9,0.5555555555555556,0.2222222222222222,0.8888888888888888,"question-level bootstrap, 5000 resamples, seed 42"
+Fixed-A2,9,0.6666666666666666,0.3333333333333333,0.8888888888888888,"question-level bootstrap, 5000 resamples, seed 42"
+Fixed-A3,9,0.5555555555555556,0.2222222222222222,0.8888888888888888,"question-level bootstrap, 5000 resamples, seed 42"
+Fixed-A4,9,0.35374440374440375,0.04072293447293449,0.6352258852258852,"question-level bootstrap, 5000 resamples, seed 42"
+Generate-All-Score-Max,9,0.7264957264957265,0.4444444444444444,1.0,"question-level bootstrap, 5000 resamples, seed 42"
+Primary-Bandit-Greedy,9,0.6666666666666666,0.3333333333333333,1.0,"question-level bootstrap, 5000 resamples, seed 42"
+Uniform-Random-Expected,9,0.49297110297110297,0.226039886039886,0.7492673992673992,"question-level bootstrap, 5000 resamples, seed 42"
+Validation-Selected-Best-Fixed,9,0.6666666666666666,0.3333333333333333,1.0,"question-level bootstrap, 5000 resamples, seed 42"

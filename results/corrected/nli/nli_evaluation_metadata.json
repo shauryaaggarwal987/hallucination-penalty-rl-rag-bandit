@@ -1,0 +1,7 @@
+{
+  "model": "facebook/bart-large-mnli",
+  "threshold": 0.5,
+  "premise": "each retrieved chunk",
+  "hypothesis": "cleaned substantive scoring unit",
+  "response_id_uses_scalar_repeat": true
+}

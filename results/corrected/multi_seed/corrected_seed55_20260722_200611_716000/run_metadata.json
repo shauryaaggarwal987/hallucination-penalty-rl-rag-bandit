@@ -1,0 +1,48 @@
+{
+  "run_id": "corrected_seed55_20260722_200611_716000",
+  "created_at_utc": "2026-07-22T20:06:13.037883+00:00",
+  "seed": 55,
+  "split": "train",
+  "episodes": 200,
+  "llm_provider": "gemini",
+  "llm_model": "gemini-2.5-flash",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "semantic_similarity_threshold": 0.5,
+  "reward_mode": "semantic_proxy",
+  "semantic_scorer_version": "semantic_proxy_clean_v2",
+  "nli_model": "facebook/bart-large-mnli",
+  "nli_enabled_for_evaluation": false,
+  "top_k": 5,
+  "chunk_size_words": 220,
+  "chunk_overlap_words": 40,
+  "initial_epsilon": 0.2,
+  "epsilon_decay": 0.99,
+  "min_epsilon": 0.01,
+  "final_experiment_mode": true,
+  "controlled_temperature": null,
+  "action_temperatures": {
+    "A0": 0.0,
+    "A1": 0.2,
+    "A2": 0.0,
+    "A3": 0.2,
+    "A4": 0.9
+  },
+  "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99",
+  "chunks_file_sha256": "01cbbf11efc906d7ccc5b06a96f8041a7e7c148a130ebe39087a93edfe636564",
+  "index_file_sha256": "0b1aabe27f683036443ac9f130f6ac79f6c61a57bd4ce099eeb1c4523d58c971",
+  "prompt_configuration_sha256": "f7c29aad16f30476b03d442331a3541b40f9c0de187ba3e867c365c1f77be45d",
+  "source_notebook_sha256": "64441031244620f1c499aed7a9a84cf422606537e71e5e14064cd4ed1f020e91",
+  "code_hashes": {
+    "run_eval.py": "7327dd2d95281d11a0bf204f14aaddecf30c449009a3f4492c6eb2a329cf8f9d",
+    "reward.py": "afeb73df2fc1bfbc854a47284b1555b5e4934d2db9ec41dc070adb0ef664150c"
+  },
+  "python_version": "3.12.13",
+  "package_versions": {
+    "google-genai": "2.13.0",
+    "faiss-cpu": "1.14.3",
+    "sentence-transformers": "5.6.0",
+    "numpy": "2.5.1",
+    "pandas": "2.2.3"
+  },
+  "runtime": "Linux-6.12.13-x86_64-with-glibc2.39"
+}

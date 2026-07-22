@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+outputs/episodes.csv
+outputs/bandit_state.json
+

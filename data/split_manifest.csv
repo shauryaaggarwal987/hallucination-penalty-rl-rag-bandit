@@ -1,0 +1,51 @@
+split,question_id,question,master_seed,question_file_sha256
+train,q042,How does epsilon affect exploration?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q047,What is a knowledge base?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q048,What is retrieval latency?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q016,What is the capital of France?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q010,What is FAISS used for?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q017,Who won the World Cup in 2022?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q025,What is a multi-armed bandit?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q035,How do I install python?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q032,What is the weather today?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q001,What is Reinforcement Learning?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q045,What is the dimensionality of embeddings?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q028,Can FAISS do approximate search?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q034,What is the population of Mars?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q006,What does RAG stand for?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q030,What language is FAISS written in?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q012,What is IndexFlatIP?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q037,Can you summarize the documents?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q002,Explain the exploration-exploitation trade-off.,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q022,What is the goal of an agent in MDP?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q003,What is a Markov Decision Process?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q044,What is a dense vector?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q036,What is the best movie of all time?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q024,Describe the transition function in MDP.,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q041,What is model-free RL?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q011,Does FAISS support GPU search?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q023,What is a policy in RL?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q019,What is the speed of light?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q050,What is the difference between RAG and RL?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q021,Is Reinforcement Learning supervised or unsupervised?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q008,What is the role of an LLM in RAG?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q043,What is a value function?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q015,Who created FAISS?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q029,What is a chunk in RAG?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+train,q039,What lies beyond the observable universe?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+validation,q007,How does RAG reduce hallucinations?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+validation,q018,How do you make a cake?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+validation,q026,How are vector databases used in RAG?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+validation,q013,What is cosine similarity?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+validation,q038,What is the meaning of life?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+validation,q046,Is RAG better than fine-tuning?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+validation,q027,What is the difference between inner product and cosine similarity?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q014,What are the three machine learning paradigms?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q040,Do aliens exist?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q049,How do I optimize FAISS?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q004,How does Q-learning work?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q009,What are embeddings?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q005,What is an epsilon-greedy algorithm?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q033,Who is the president of the US?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q020,Who wrote Harry Potter?,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99
+test,q031,Tell me a joke about RL.,42,5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99

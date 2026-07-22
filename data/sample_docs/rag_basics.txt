@@ -1,0 +1,8 @@
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the accuracy and reliability of generative AI models with facts fetched from external sources.
+In a RAG system, the user's query is first used to retrieve relevant documents or chunks of text from a knowledge base.
+These retrieved chunks are then passed to the Large Language Model (LLM) along with the original query as context.
+The LLM uses this context to generate a more accurate and grounded response.
+This approach reduces hallucinations, where the model invents incorrect information.
+Vector databases are commonly used in RAG to store embeddings of documents for efficient similarity search.
+Embeddings are vector representations of text where semantically similar texts are close in vector space.
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors.

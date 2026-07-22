@@ -1,0 +1,7 @@
+{
+  "unit_label": "substantive scoring units",
+  "n_units": 430,
+  "raw_agreement": 0.7162790697674418,
+  "cohen_kappa": 0.35593969454402585,
+  "interpretation": "agreement between two automatic metrics, not truth"
+}

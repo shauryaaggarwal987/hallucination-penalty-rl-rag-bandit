@@ -1,0 +1,21 @@
+{
+  "run_id": "run_20260720_225501_107037",
+  "created_at_utc": "2026-07-20T22:55:01.112980+00:00",
+  "seed": 44,
+  "split": "train",
+  "episodes": 200,
+  "gemini_model": "gemini-2.5-flash",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "semantic_similarity_threshold": 0.5,
+  "reward_mode": "semantic_proxy",
+  "top_k": 5,
+  "chunk_size_words": 220,
+  "chunk_overlap_words": 40,
+  "initial_epsilon": 0.2,
+  "epsilon_decay": 0.99,
+  "min_epsilon": 0.01,
+  "final_experiment_mode": false,
+  "question_file_sha256": "5312a60374a2d72754b29eb8fba4f73f90b99178aa0d56b16694f133a7f62e99",
+  "chunks_file_sha256": "01cbbf11efc906d7ccc5b06a96f8041a7e7c148a130ebe39087a93edfe636564",
+  "index_file_sha256": "0b1aabe27f683036443ac9f130f6ac79f6c61a57bd4ce099eeb1c4523d58c971"
+}

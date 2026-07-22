@@ -1,0 +1,7 @@
+FAISS (Facebook AI Similarity Search) is a library that allows developers to quickly search for embeddings of multimedia documents that are similar to each other.
+It solves the problem of nearest neighbor search in high-dimensional spaces.
+IndexFlatIP is a simple index type in FAISS that performs exact search using inner product (dot product) distance.
+If vectors are normalized, inner product is equivalent to cosine similarity.
+FAISS is written in C++ with complete wrappers for Python.
+It supports search on both CPUs and GPUs.
+For large datasets, FAISS offers approximate search methods that trade off some accuracy for speed.

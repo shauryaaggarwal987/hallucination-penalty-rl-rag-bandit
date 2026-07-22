@@ -1,0 +1,55 @@
+{
+  "python": "3.12.13 (main, Mar  3 2026, 14:59:34) [Clang 21.1.4 ]",
+  "platform": "Linux-6.12.13-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": {
+      "available": true,
+      "version": "2.5.1"
+    },
+    "pandas": {
+      "available": true,
+      "version": "2.2.3"
+    },
+    "sklearn": {
+      "available": true,
+      "version": "1.9.0"
+    },
+    "matplotlib": {
+      "available": true,
+      "version": "3.10.8"
+    },
+    "nltk": {
+      "available": true,
+      "version": "3.10.0"
+    },
+    "pytest": {
+      "available": true,
+      "version": "9.1.1"
+    },
+    "faiss": {
+      "available": true,
+      "version": "1.14.3"
+    },
+    "sentence_transformers": {
+      "available": true,
+      "version": "5.6.0"
+    },
+    "transformers": {
+      "available": true,
+      "version": "5.14.1"
+    },
+    "torch": {
+      "available": true,
+      "version": "2.13.0+cu130"
+    },
+    "google.genai": {
+      "available": true,
+      "version": "2.13.0"
+    },
+    "jsonlines": {
+      "available": true,
+      "version": null
+    }
+  },
+  "execution_note": "ML dependencies were installed in a temporary isolated runtime for this audit; requirements.txt is the persistent environment specification."
+}
