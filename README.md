@@ -6,9 +6,27 @@ This research prototype combines dense retrieval with five Gemini generation con
 
 Results should be interpreted cautiously. Semantic support and automatic NLI measure consistency with retrieved context, not independently verified factual correctness.
 
-## Paper
+## Published Research Paper
 
-“Reward-Driven Hallucination Control in Retrieval-Augmented Generation via Bandit Learning,” Shaurya Aggarwal, Ishani Lohar, Gireesh Kumar, and Richa Sharma (2026), accepted in the AI4SD 2026 context. No DOI is recorded in this release.
+**Title:** Reward-driven hallucination control in retrieval-augmented generation via bandit learning
+
+**Authors:** Shaurya Aggarwal, Ishani Lohar, Gireesh Kumar, Richa Sharma
+
+**Journal:** EPJ Web Conf.
+
+**Publisher:** EDP Sciences
+
+**Volume:** 391 (2026)
+
+**Article Number:** 01004
+
+**Published Online:** October 15, 2026
+
+**Conference:** International Conference on Artificial Intelligence for Sustainable Development (AI4SD 2026)
+
+**DOI:** [10.1051/epjconf/202639101004](https://doi.org/10.1051/epjconf/202639101004)
+
+**Publication:** [Read the published paper](https://doi.org/10.1051/epjconf/202639101004)
 
 ## Repository Contents
 
@@ -59,8 +77,29 @@ The corrected seed-42 run learned A2 as its final greedy action and had mean tra
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff).
+If you use this research or its implementation, please cite the published paper.
 
+**Official publisher-provided BibTeX:**
+
+```bibtex
+@article{ refId0,
+	author = {{Aggarwal, Shaurya} and {Lohar, Ishani} and {Kumar, Gireesh} and {Sharma, Richa}},
+	title = {Reward-driven hallucination control in retrieval-augmented generation via bandit learning},
+	DOI= "10.1051/epjconf/202639101004",
+	url= "https://doi.org/10.1051/epjconf/202639101004",
+	journal = {EPJ Web Conf.},
+	year = 2026,
+	volume = 391,
+	pages = "01004",
+}
+```
+
+**Paper DOI:** https://doi.org/10.1051/epjconf/202639101004
+
+For machine-readable citation metadata, see [CITATION.cff](CITATION.cff).
+```
+
+For machine-readable citation metadata, see [CITATION.cff](CITATION.cff).
 ## License
 
 No explicit software license has been selected. See [LICENSE_STATUS.md](LICENSE_STATUS.md) and [THIRD_PARTY_DATA.md](THIRD_PARTY_DATA.md).
