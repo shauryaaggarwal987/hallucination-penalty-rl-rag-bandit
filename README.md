@@ -1,5 +1,11 @@
 # Reward-Driven Hallucination Control in Retrieval-Augmented Generation via Bandit Learning
 
+**Published in EPJ Web of Conferences, Volume 391 (2026)**
+
+[![DOI](https://img.shields.io/badge/DOI-10.1051%2Fepjconf%2F202639101004-blue)](https://doi.org/10.1051/epjconf/202639101004)
+
+**Official Publication:** [Read Paper](https://doi.org/10.1051/epjconf/202639101004)
+
 ## Overview
 
 This research prototype combines dense retrieval with five Gemini generation configurations (A0-A4) and a non-contextual epsilon-greedy bandit. Each training episode selects one configuration, makes exactly one generation call, scores only that response with an automatic semantic-support reward, and updates only the selected arm. It studies global strategy preference under partial feedback; it does not learn contextual per-query routing or fine-tune model weights.
