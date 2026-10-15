@@ -1,7 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this project, please cite the associated paper."
-title: "Reward-Driven Hallucination Control in Retrieval-Augmented Generation via Bandit Learning"
+
+message: "If you use this project, please cite the associated published paper."
+
+title: "Reward-driven hallucination control in retrieval-augmented generation via bandit learning"
+
 type: software
+
 authors:
   - family-names: Aggarwal
     given-names: Shaurya
@@ -11,5 +15,25 @@ authors:
     given-names: Gireesh
   - family-names: Sharma
     given-names: Richa
-year: 2026
 
+repository-code: "https://github.com/shauryaaggarwal987/hallucination-penalty-rl-rag-bandit"
+
+preferred-citation:
+  type: article
+  title: "Reward-driven hallucination control in retrieval-augmented generation via bandit learning"
+  authors:
+    - family-names: Aggarwal
+      given-names: Shaurya
+    - family-names: Lohar
+      given-names: Ishani
+    - family-names: Kumar
+      given-names: Gireesh
+    - family-names: Sharma
+      given-names: Richa
+  journal: "EPJ Web Conf."
+  year: 2026
+  volume: 391
+  date-published: "2026-10-15"
+  doi: "10.1051/epjconf/202639101004"
+  url: "https://doi.org/10.1051/epjconf/202639101004"
+  notes: "Article number 01004."
