@@ -103,9 +103,9 @@ If you use this research or its implementation, please cite the published paper.
 **Paper DOI:** https://doi.org/10.1051/epjconf/202639101004
 
 For machine-readable citation metadata, see [CITATION.cff](CITATION.cff).
-```
 
 For machine-readable citation metadata, see [CITATION.cff](CITATION.cff).
+
 ## License
 
 No explicit software license has been selected. See [LICENSE_STATUS.md](LICENSE_STATUS.md) and [THIRD_PARTY_DATA.md](THIRD_PARTY_DATA.md).
